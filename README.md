@@ -58,7 +58,7 @@ The main goal of this workflow is to:
 
 ## Use Case
 This workflow is ideal for:
-- **Customer verification campaigns** (banks, fintech, subscription services).
+- **Customer verification campaigns** (banks, fintech, real estate, subscription services).
 - **Follow-up and feedback collection** for businesses.
 - **Automated surveys and outbound notifications**.
 - Any business needing to **log structured conversation data** automatically.
